@@ -8,8 +8,8 @@
   - 莫扬：负责任务1
   - 周杨杰 25210980146：负责任务2
   - 张磊磊：负责任务3
-- Github 仓库链接：https://github.com/Abouje/DL-SI-midpre`
-- 模型权重网盘链接：`https://github.com/Abouje/DL-SI-midpre`
+- Github 仓库链接：`https://github.com/Abouje/DL-SI-midpre`
+- 模型权重、数据和实验结果链接：`https://pan.quark.cn/s/ba23897217af`
 
 ---
 
